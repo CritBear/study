@@ -5,3 +5,5 @@
 [03. 코칭 커뮤니케이션 - 경청,인정 편](https://critbear.github.io/study/source/03.html) <br>
 [04. 코칭 커뮤니케이션 - 질문 편](https://critbear.github.io/study/source/04.html) <br>
 [05. 웃음 커뮤니케이션](https://critbear.github.io/study/source/05.html) <br>
+
+[자료3 - 코칭 커뮤니케이션 - 경청,인정 편](https://critbear.github.io/study/source/note03.html) <br>
