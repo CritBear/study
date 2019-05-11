@@ -8,4 +8,6 @@
 <br>
 [01 ~ 07. 중간고사](https://critbear.github.io/study/source/01_07.html) <br>
 <br>
+[06 ~ 10. 2차퀴즈](https://critbear.github.io/study/source/06_10.html) <br>
+<br>
 [자료3 - 코칭 커뮤니케이션 - 경청,인정 편](https://critbear.github.io/study/source/note03.hwp) <br>
